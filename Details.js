@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from "axios";
 import bootstrap from "bootstrap";
-//import {QuizData} from './question.js';
+
 
 
 export default class Details extends Component {
